@@ -1,3 +1,8 @@
+# 파일명 상관없이 확장자가 work면 관리 X
+*.work
+# 확장자 상관없이 파일명이 wikim 면관리 X
+wikim.*
+
 # History files
 .Rhistory
 .Rapp.history
